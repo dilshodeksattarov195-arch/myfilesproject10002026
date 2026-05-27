@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdncrypt",
+        "uuid": 16740838,
+        "checksum": "hwsoz8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
